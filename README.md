@@ -1,6 +1,7 @@
-Certainly! Below is an example implementation of the described program in Java:
 
-```java
+
+
+
 import java.util.Scanner;
 
 public class CacaPalavras {
@@ -66,8 +67,8 @@ public class CacaPalavras {
             String palavra = palavras[i][0];
             int row = -1, col = -1;
 
-            // Perform the search for the word in the map
-            // (You need to implement this logic based on the rules)
+            // //Realiza a busca pela palavra no mapa
+             // (Você precisa implementar esta lógica com base nas regras)
 
             if (row == -1 || col == -1) {
                 System.out.println("Palavra " + palavra + " NÃO encontrada");
@@ -84,13 +85,12 @@ public class CacaPalavras {
     }
 
     private void mapaImprimir() {
-        // Your logic to print the map
-        // ...
+        // para em emprimir o mapa
+        // 
     }
 
     private void mapaPesquisa() {
-        // Your logic to search for words in the map
-        // ...
+        // para procurar palavaras no mapa
     }
 
     public static void main(String[] args) {
