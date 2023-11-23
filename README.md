@@ -79,7 +79,7 @@ public class CacaPalavras {
     }
 
     private void mapaEntrada() {
-        // Your provided map entries
+         // ler a entrdas fornecidas
         // ...
 
     }
